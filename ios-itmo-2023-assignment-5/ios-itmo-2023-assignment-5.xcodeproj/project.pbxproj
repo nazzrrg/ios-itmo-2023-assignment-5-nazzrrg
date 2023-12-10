@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57A1F8582B26141600F40B15 /* ImageUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A1F8572B26141600F40B15 /* ImageUtil.swift */; };
 		F4EEFFAF2B148A0300C32EBC /* ios_itmo_2023_assignment_5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4EEFFAE2B148A0300C32EBC /* ios_itmo_2023_assignment_5App.swift */; };
 		F4EEFFB32B148A0500C32EBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4EEFFB22B148A0500C32EBC /* Assets.xcassets */; };
 		F4EEFFB62B148A0500C32EBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4EEFFB52B148A0500C32EBC /* Preview Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		57A1F8572B26141600F40B15 /* ImageUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUtil.swift; sourceTree = "<group>"; };
 		F4EEFFAB2B148A0300C32EBC /* ios-itmo-2023-assignment-5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-itmo-2023-assignment-5.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4EEFFAE2B148A0300C32EBC /* ios_itmo_2023_assignment_5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_itmo_2023_assignment_5App.swift; sourceTree = "<group>"; };
 		F4EEFFB22B148A0500C32EBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				F4EEFFBE2B148AC200C32EBC /* Screen_1_1.swift */,
 				F4EEFFC02B148ACC00C32EBC /* Screen_1_2.swift */,
+				57A1F8572B26141600F40B15 /* ImageUtil.swift */,
 			);
 			path = "Part 1";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				F4EEFFC12B148ACC00C32EBC /* Screen_1_2.swift in Sources */,
 				F4EEFFAF2B148A0300C32EBC /* ios_itmo_2023_assignment_5App.swift in Sources */,
 				F4EEFFBF2B148AC200C32EBC /* Screen_1_1.swift in Sources */,
+				57A1F8582B26141600F40B15 /* ImageUtil.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
